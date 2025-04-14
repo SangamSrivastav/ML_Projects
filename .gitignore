@@ -139,6 +139,7 @@ venv/
 Scripts/
 kernels/
 man/
+dataset.csv
 # Spyder project settings
 .spyderproject
 .spyproject
